@@ -1,4 +1,4 @@
-# Custum calculator
+# Custom calculator
 
 [![P](https://www.python.org/static/img/python-logo.png)](https://www.python.org)
 
